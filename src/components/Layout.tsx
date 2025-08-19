@@ -40,7 +40,7 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
           <Link to="/dashboard" className="flex items-center space-x-2 hover:opacity-80 transition-opacity">
             <Film className="h-8 w-8 text-primary" />
             <span className="font-display font-bold text-xl gradient-text">
-              Movie Explorer
+              Movie Verse
             </span>
           </Link>
 

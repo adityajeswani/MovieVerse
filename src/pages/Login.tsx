@@ -59,7 +59,7 @@ export const Login = () => {
             Welcome Back
           </h2>
           <p className="text-muted-foreground">
-            Sign in to your Movie Explorer account
+            Sign in to your Movie Verse account
           </p>
         </div>
 

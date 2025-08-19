@@ -63,7 +63,7 @@ export const Register = () => {
             </div>
           </div>
           <h2 className="font-display text-3xl font-bold gradient-text mb-2">
-            Join Movie Explorer
+            Join Movie Verse
           </h2>
           <p className="text-muted-foreground">
             Create your account to start exploring movies

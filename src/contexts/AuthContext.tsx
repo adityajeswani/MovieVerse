@@ -52,7 +52,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
       setUser(user);
       toast({
         title: "Account created!",
-        description: "Welcome to Movie Explorer.",
+        description: "Welcome to Movie Verse.",
       });
     } catch (error) {
       toast({
